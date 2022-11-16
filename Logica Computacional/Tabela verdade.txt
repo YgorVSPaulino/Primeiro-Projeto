@@ -1,0 +1,5 @@
+#### Tabela verdade 
+
+A Tabela Verdade é um mecanismo que permite valorar fórmulas de forma genérica a partir de entradas binárias e conectores lógicos.
+
+A Figura 1 mostra o esquema geral para uma Tabela Verdade. Nas primeiras colunas coloca-se as proposições (quantas forem necessárias testar), em seguida, coloca-se as operações lógicas que se deseja valorar. Nas linhas são colocadas os valores lógicos (V – F) tanto para as proposições quanto para os resultados das fórmulas.
